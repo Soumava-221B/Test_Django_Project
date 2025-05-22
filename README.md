@@ -9,4 +9,4 @@
 8. python3 manage.py makemigrations
 9. python3 manage.py migrate
 10. python3 manage.py createsuperuser
-11. python manage.py startapp tweet
+11. python3 manage.py startapp tweet
